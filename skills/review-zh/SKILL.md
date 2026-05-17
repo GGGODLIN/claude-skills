@@ -12,7 +12,7 @@ description: Invoke when writing or editing English markdown content that will b
 用 `__` 取代 `/`：
 
 - `~/.claude/skills/figma-context-budget/SKILL.md` → `~/.claude/review-zh/skills__figma-context-budget__SKILL.md`
-- 專案內檔案用 repo 名起頭：`{{YOUR_WORKSPACE}}/docs/foo.md` → `{{YOUR_WORKSPACE}}__docs__foo.md`
+- 專案內檔案用 repo 名起頭：`myproject/docs/foo.md` → `myproject__docs__foo.md`
 
 ## 刪除時機
 

@@ -140,8 +140,8 @@ If a spec mixes Type A and Type B, render both — they don't conflict.
 ## Example invocation flow
 
 ```
-User: /review-html ~/Desktop/work/{{YOUR_WORKSPACE}}/openspec/changes/archive/.../plans/v1-superpowers.md
-(example from my work setup — adapt to yours)
+User: /review-html ~/Desktop/work/acme/openspec/changes/archive/.../plans/v1-superpowers.md
+(example path — adapt to yours)
 
 Claude:
 1. Read source (1419 lines, English task plan)
