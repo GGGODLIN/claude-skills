@@ -17,7 +17,7 @@ Install as-is. No personal framework dependencies.
 | [`ai-image-gen`](skills/ai-image-gen/SKILL.md) | skill | Single entry point for any image generation request |
 | [`changelog-check`](commands/changelog-check.md) | command | Fetch Shopify changelog entries since last check |
 
-## Framework templates with prerequisites (9)
+## Framework templates with prerequisites (8)
 
 Tied to author's personal stack. Treat as templates; expect to fork and adapt. Each has a `## Prerequisites` section.
 
@@ -31,7 +31,6 @@ Tied to author's personal stack. Treat as templates; expect to fork and adapt. E
 | [`memory-checkpoint`](commands/memory-checkpoint.md) | command | Manual memory write (vendor model workaround) |
 | [`sync-claude-setting-cross-platform`](commands/sync-claude-setting-cross-platform.md) | command | Cross-machine `~/.claude/` sync flow |
 | [`pr-review`](commands/pr-review.md) | command | Dual-model PR review (Opus + Codex) |
-| [`devfleet`](commands/devfleet.md) | command | Orchestrate parallel Claude Code agents via DevFleet MCP |
 
 ## Install
 

@@ -17,7 +17,6 @@
     "commands/memory-audit.md",
     "commands/memory-checkpoint.md",
     "commands/sync-claude-setting-cross-platform.md",
-    "commands/pr-review.md",
-    "commands/devfleet.md"
+    "commands/pr-review.md"
   ]
 }
