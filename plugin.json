@@ -1,0 +1,23 @@
+{
+  "name": "claude-skills",
+  "version": "0.1.0",
+  "description": "Personal Claude Code skill / command collection by gggodlin. Reading list, not a tool.",
+  "license": "0BSD",
+  "skills": [
+    "skills/review-html",
+    "skills/review-zh",
+    "skills/ai-image-gen",
+    "skills/research-before-answer",
+    "skills/video-research",
+    "skills/figma-context-budget"
+  ],
+  "commands": [
+    "commands/changelog-check.md",
+    "commands/wiki-promote.md",
+    "commands/memory-audit.md",
+    "commands/memory-checkpoint.md",
+    "commands/sync-claude-setting-cross-platform.md",
+    "commands/pr-review.md",
+    "commands/devfleet.md"
+  ]
+}
