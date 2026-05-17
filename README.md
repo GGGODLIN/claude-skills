@@ -54,7 +54,7 @@ The manual `cp` approach is intentional: **read it before installing**.
 This is a public mirror for reading.
 
 - **Issues / PRs are NOT actively monitored.**
-- For bug reports about my setup, use GitHub Discussions or reach me at [@gggodlin on X](https://x.com/gggodlin).
+- For bug reports about my setup, use GitHub Discussions.
 - This repo follows my personal `~/.claude/` periodically; expect periods of inconsistency.
 
 ## License
